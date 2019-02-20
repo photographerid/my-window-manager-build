@@ -49,4 +49,5 @@ and (re)compiling the source code.
 
 Patch
 -----
-Alpha		: translucent statusbar
+Alpha			: translucent statusbar
+Hide vacant tags	: hide unused tags
