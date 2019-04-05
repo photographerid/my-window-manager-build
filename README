@@ -10,6 +10,7 @@ From Arc repo:
 libx11
 libxft
 libxinerama
+freetype2
 st
 dmenu
 
